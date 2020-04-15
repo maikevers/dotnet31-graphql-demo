@@ -13,7 +13,7 @@
   <a href="https://docs.microsoft.com/en-us/ef/core/providers/cosmos/?tabs=dotnet-core-cli">EF Core Docs</a>
   </h3>
 
-This is a small demo of a .NET Core 3.1 GraphQL API using Hotchocolate (Code first) and Cosmos DB with Entity Framework Core as provider.
+This is a small demo of a .NET Core 3.1 GraphQL API using Hotchocolate (Code first) and Cosmos DB with Entity Framework Core as provider. This demo only includes some simple CRUD operations and has no domain model.
 
 </div>
 
